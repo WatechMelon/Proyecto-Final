@@ -1,0 +1,18 @@
+C:\Users\ivanr\source\repos\Negocio\bin\Debug\Negocio.dll
+C:\Users\ivanr\source\repos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ivanr\source\repos\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ivanr\source\repos\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\source\repos\Negocio\obj\Debug\Negocio.dll
+C:\Users\ivanr\source\repos\Negocio\obj\Debug\Negocio.pdb
+C:\Users\ivanr\source\repos\PruebasProyecto\Negocio\bin\Debug\Negocio.dll
+C:\Users\ivanr\source\repos\PruebasProyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ivanr\source\repos\PruebasProyecto\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ivanr\source\repos\PruebasProyecto\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\source\repos\PruebasProyecto\Negocio\obj\Debug\Negocio.dll
+C:\Users\ivanr\source\repos\PruebasProyecto\Negocio\obj\Debug\Negocio.pdb
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Negocio\bin\Debug\Negocio.dll
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Negocio\obj\Debug\Negocio.dll
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Negocio\obj\Debug\Negocio.pdb

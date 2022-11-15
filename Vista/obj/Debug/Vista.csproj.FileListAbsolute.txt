@@ -1,0 +1,136 @@
+C:\Users\ivanr\source\repos\Vista\bin\Debug\Vista.exe.config
+C:\Users\ivanr\source\repos\Vista\bin\Debug\Vista.exe
+C:\Users\ivanr\source\repos\Vista\bin\Debug\Vista.pdb
+C:\Users\ivanr\source\repos\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\ivanr\source\repos\Vista\obj\Debug\Vista.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanr\source\repos\Vista\obj\Debug\Vista.Principal.resources
+C:\Users\ivanr\source\repos\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\ivanr\source\repos\Vista\obj\Debug\Vista.Usuarios.resources
+C:\Users\ivanr\source\repos\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\ivanr\source\repos\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\source\repos\Vista\obj\Debug\Vista.exe
+C:\Users\ivanr\source\repos\Vista\obj\Debug\Vista.pdb
+C:\Users\ivanr\source\repos\Vista\obj\Debug\Vista.ClienteMenu.resources
+C:\Users\ivanr\source\repos\Vista\obj\Debug\Vista.Clientes.LoginCliente.resources
+C:\Users\ivanr\source\repos\Vista\obj\Debug\Vista.Cliente.Registro.resources
+C:\Users\ivanr\source\repos\Vista\bin\Debug\Acceso a Datos.dll
+C:\Users\ivanr\source\repos\Vista\bin\Debug\Negocio.dll
+C:\Users\ivanr\source\repos\Vista\bin\Debug\MySql.Data.dll
+C:\Users\ivanr\source\repos\Vista\bin\Debug\Google.Protobuf.dll
+C:\Users\ivanr\source\repos\Vista\bin\Debug\ZstdNet.dll
+C:\Users\ivanr\source\repos\Vista\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ivanr\source\repos\Vista\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ivanr\source\repos\Vista\bin\Debug\System.Memory.dll
+C:\Users\ivanr\source\repos\Vista\bin\Debug\System.Buffers.dll
+C:\Users\ivanr\source\repos\Vista\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ivanr\source\repos\Vista\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ivanr\source\repos\Vista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ivanr\source\repos\Vista\bin\Debug\Acceso a Datos.pdb
+C:\Users\ivanr\source\repos\Vista\bin\Debug\Acceso a Datos.dll.config
+C:\Users\ivanr\source\repos\Vista\bin\Debug\Negocio.pdb
+C:\Users\ivanr\source\repos\Vista\bin\Debug\MySql.Data.xml
+C:\Users\ivanr\source\repos\Vista\bin\Debug\Google.Protobuf.pdb
+C:\Users\ivanr\source\repos\Vista\bin\Debug\Google.Protobuf.xml
+C:\Users\ivanr\source\repos\Vista\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ivanr\source\repos\Vista\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ivanr\source\repos\Vista\bin\Debug\System.Memory.xml
+C:\Users\ivanr\source\repos\Vista\bin\Debug\System.Buffers.xml
+C:\Users\ivanr\source\repos\Vista\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ivanr\source\repos\Vista\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ivanr\source\repos\Vista\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ivanr\source\repos\Vista\obj\Debug\Vista.exe.config
+C:\Users\ivanr\source\repos\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\ivanr\source\repos\Vista\obj\Debug\Vista.Clientes.Compras.resources
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\Vista.exe.config
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\Vista.exe
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\Vista.pdb
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\Acceso a Datos.dll
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\Negocio.dll
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\MySql.Data.dll
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\Google.Protobuf.dll
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\ZstdNet.dll
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\System.Memory.dll
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\System.Buffers.dll
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\Acceso a Datos.pdb
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\Acceso a Datos.dll.config
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\Negocio.pdb
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\MySql.Data.xml
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\Google.Protobuf.pdb
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\Google.Protobuf.xml
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\System.Memory.xml
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\System.Buffers.xml
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\obj\Debug\Vista.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\obj\Debug\Vista.exe.config
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\obj\Debug\Vista.ClienteMenu.resources
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\obj\Debug\Vista.Clientes.LoginCliente.resources
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\obj\Debug\Vista.Cliente.Registro.resources
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\obj\Debug\Vista.Principal.resources
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\obj\Debug\Vista.exe
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\obj\Debug\Vista.pdb
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\obj\Debug\Vista.Usuarios.Productos.Productos.resources
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\obj\Debug\Vista.Usuario.resources
+C:\Users\ivanr\source\repos\PruebasProyecto\Vista\obj\Debug\Vista.He.LoginRepartidor.resources
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\obj\Debug\Vista.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\obj\Debug\Vista.ClienteMenu.resources
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\obj\Debug\Vista.Clientes.LoginCliente.resources
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\obj\Debug\Vista.Cliente.Registro.resources
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\obj\Debug\Vista.He.LoginRepartidor.resources
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\obj\Debug\Vista.Principal.resources
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\obj\Debug\Vista.exe
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\obj\Debug\Vista.pdb
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\obj\Debug\Vista.Usuario.resources
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\Vista.exe.config
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\Vista.exe
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\Vista.pdb
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\Acceso a Datos.dll
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\Negocio.dll
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\MySql.Data.dll
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\Google.Protobuf.dll
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\ZstdNet.dll
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\System.Memory.dll
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\System.Buffers.dll
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\Acceso a Datos.pdb
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\Acceso a Datos.dll.config
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\Negocio.pdb
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\MySql.Data.xml
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\Google.Protobuf.pdb
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\Google.Protobuf.xml
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\System.Memory.xml
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\System.Buffers.xml
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\obj\Debug\Vista.He.LoginHe.resources
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\obj\Debug\Vista.He.ModHuerta.resources
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\obj\Debug\Vista.Repartidor.Pedidos.resources
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\obj\Debug\Vista.Usuarios.Productos.ProductosE.resources
+C:\Users\ivanr\Desktop\Cosas Proyecto\PruebasProyecto\Vista\obj\Debug\Vista.Clientes.ProductosT.resources
